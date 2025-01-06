@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Micro 5', sans-serif;
+    font-size: 32px;
+    background-color: #123524;
+    color: #EFE3C2;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+footer{
+    text-align: center;
+    font-size: 32px;
+    margin: 15px;
+}
+
+footer a{
+    color: inherit;
+    text-decoration: none;
+}
+
+footer a:hover{
+    text-decoration: none;
+}
